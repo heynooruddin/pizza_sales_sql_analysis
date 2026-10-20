@@ -12,6 +12,8 @@ MySQL 8, MySQL Workbench
 3. Top pizza types by quantity and by revenue
 4. Orders by hour and average pizzas per day
 5. Revenue share per pizza type, cumulative revenue over time
+6. <img width="1187" height="445" alt="image" src="https://github.com/user-attachments/assets/e4cc11d4-ec9a-4025-bffa-17ddad97714c" />
+
 ## Key findings
 - Most common pizza sized ordered
 - Top 5 most ordered pizza types
